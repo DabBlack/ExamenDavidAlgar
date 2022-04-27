@@ -8,7 +8,7 @@ public class suma {
 		int num1, num2, suma;
 		
 		String str = JOptionPane.showInputDialog("Introduzca un número:");
-		num1 = Integer.parseInt(str);
+		num1 = Integer.parseInt(str); 
 		
 		str = JOptionPane.showInputDialog("Introduzca un segundo número");
 		num2 = Integer.parseInt(str);
